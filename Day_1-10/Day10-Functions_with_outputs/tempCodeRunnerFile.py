@@ -1,1 +1,0 @@
-return f"{i_year} {i_month}"
